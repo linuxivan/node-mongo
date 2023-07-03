@@ -1,0 +1,301 @@
+[{
+        "titulo": "Altered Carbon",
+        "tipo": "serie",
+        "descripcion": "250 años después de su muerte, un prisionero vuelve a la vida en un nuevo cuerpo para resolver un asesinato y ganar así su libertad.",
+        "valoraciones": [{
+                "nick": "Esteban14",
+                "puntuacion": 4,
+                "comentario": "UEUEUEUEUE"
+            },
+            {
+                "nick": "ManuelGuti2",
+                "puntuacion": 4.5,
+                "comentario": "La mejor peli de este año"
+            }
+        ],
+        "generos": [
+            "Ciencia ficcion", "Basada en libros", "Policiaca"
+        ],
+        "numeroRepro": 0,
+        "premios": [],
+        "temporadas": [
+            [{
+                    "titulo": "Inicio",
+                    "duracion": "50min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ],
+            [{
+                    "titulo": "Locura",
+                    "duracion": "30min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Master",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ]
+        ]
+    },
+    {
+        "titulo": "Vikingos",
+        "tipo": "serie",
+        "descripcion": "La mejor serie.",
+        "valoraciones": [{
+                "nick": "Esteban14",
+                "puntuacion": 5,
+                "comentario": "UEUEUEUEUE"
+            },
+            {
+                "nick": "ManuelGuti2",
+                "puntuacion": 3.5,
+                "comentario": "La mejor peli de este año"
+            }
+        ],
+        "generos": [
+            "De epoca", "Drama", "Accion", "Aventura"
+        ],
+        "numeroRepro": 0,
+        "premios": [],
+        "temporadas": [
+            [{
+                    "titulo": "Inicio",
+                    "duracion": "50min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ],
+            [{
+                    "titulo": "Locura",
+                    "duracion": "30min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Master",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ]
+        ]
+    },
+    {
+        "titulo": "Desencanto",
+        "tipo": "serie",
+        "descripcion": "Una chica, asi de dibujos, esta guay",
+        "valoraciones": [{
+                "nick": "Esteban14",
+                "puntuacion": 4,
+                "comentario": "UEUEUEUEUE"
+            },
+            {
+                "nick": "ManuelGuti2",
+                "puntuacion": 3.8,
+                "comentario": "La mejor peli de este año"
+            }
+        ],
+        "generos": [
+            "Fantastica", "Adultos"
+        ],
+        "numeroRepro": 0,
+        "premios": [],
+        "temporadas": [
+            [{
+                    "titulo": "Inicio",
+                    "duracion": "50min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ],
+            [{
+                    "titulo": "Locura",
+                    "duracion": "30min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Master",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ]
+        ]
+    },
+    {
+        "titulo": "Los bridgerton",
+        "tipo": "serie",
+        "descripcion": "Una serie chula",
+        "valoraciones": [{
+                "nick": "Esteban14",
+                "puntuacion": 2.5,
+                "comentario": "UEUEUEUEUE"
+            },
+            {
+                "nick": "ManuelGuti2",
+                "puntuacion": 3,
+                "comentario": "La mejor peli de este año"
+            }
+        ],
+        "generos": [
+            "Romantica", "De epoca"
+        ],
+        "numeroRepro": 0,
+        "premios": [],
+        "temporadas": [
+            [{
+                    "titulo": "Inicio",
+                    "duracion": "50min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ],
+            [{
+                    "titulo": "Locura",
+                    "duracion": "30min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Master",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                },
+                {
+                    "titulo": "Continuacion",
+                    "duracion": "48min",
+                    "descripcion": "Iker se despierta del coma en un nuevo cuerpo"
+                }
+            ]
+        ]
+    }
+]

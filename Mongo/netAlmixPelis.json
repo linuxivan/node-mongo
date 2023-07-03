@@ -1,0 +1,216 @@
+[{
+        "titulo": "Shaft",
+        "tipo": "pelicula",
+        "descripcion": "Cuando el hijo al que no conoce acude a él para pedirle ayuda, el detective privado John Shaft descubre que lo de 'de tal palo tal astilla' no siempre se cumple.",
+        "valoraciones": [{
+                "nick": "Esteban14",
+                "puntuacion": 4,
+                "comentario": "UEUEUEUEUE"
+            },
+            {
+                "nick": "ManuelGuti2",
+                "puntuacion": 4.5,
+                "comentario": "La mejor peli de este año"
+            }
+        ],
+        "generos": [
+            "Accion", "Comedias", "Policiaca"
+        ],
+        "numeroRepro": 0,
+        "premios": ["Con mas me gusta"],
+        "duracion": "1h 52m",
+        "director": "John Singleton"
+    },
+    {
+        "titulo": "Kate",
+        "tipo": "pelicula",
+        "descripcion": "Tras ser envenenada durante su último trabajo en Tokio, una despiadada asesina tiene menos de 24 horas para averiguar quién ordenó su muerte y vengarse.",
+        "valoraciones": [{
+                "nick": "Martin2",
+                "puntuacion": 2,
+                "comentario": "Bastante mala"
+            },
+            {
+                "nick": "ivanz1nh0",
+                "puntuacion": 1,
+                "comentario": "Peli de 2022 y se nota"
+            }
+        ],
+        "generos": [
+            "Accion", "Aventuras"
+        ],
+        "numeroRepro": 0,
+        "premios": [],
+        "duracion": "1h 46m",
+        "director": "Jun Kunimura"
+    },
+    {
+        "titulo": "Alerta Roja",
+        "tipo": "pelicula",
+        "descripcion": "Un criminólogo del FBI y el ladrón de arte más buscado del mundo se hacen compinches para atrapar a una escurridiza estafadora que siempre va un paso por delante.",
+        "valoraciones": [{
+                "nick": "Unix45",
+                "puntuacion": 4.6,
+                "comentario": "Bastante buena"
+            },
+            {
+                "nick": "ivanz1nh0",
+                "puntuacion": 5,
+                "comentario": "Muy buena"
+            },
+            {
+                "nick": "Esteban14",
+                "puntuacion": 4,
+                "comentario": "Podria ser aun mejor pero es brutal"
+            }
+        ],
+        "generos": [
+            "Accion", "Aventuras", "Comedias", "Policiaca"
+        ],
+        "numeroRepro": 0,
+        "premios": ["Top 1 de Netflix"],
+        "duracion": "1h 57m",
+        "director": "Dwayne Johnson"
+    },
+    {
+        "titulo": "Paul",
+        "tipo": "pelicula",
+        "descripcion": "Dos frikis de la ciencia ficción pretenden descubrir qué se oculta en la infame Área 51 de Nevada y se topan con un extraterrestre a la fuga.",
+        "valoraciones": [{
+                "nick": "Unix45",
+                "puntuacion": 3.6,
+                "comentario": "Bastante buena"
+            },
+            {
+                "nick": "ivanz1nh0",
+                "puntuacion": 4,
+                "comentario": "Muy buena"
+            },
+            {
+                "nick": "Esteban14",
+                "puntuacion": 4.4,
+                "comentario": "Podria ser aun mejor pero es brutal"
+            }
+        ],
+        "generos": [
+            "Ficcion", "Comedias", "Britanica"
+        ],
+        "numeroRepro": 0,
+        "premios": ["Mejor pelicula de risa"],
+        "duracion": "1h 43m",
+        "director": "Simon Pegg"
+    },
+    {
+        "titulo": "Venom",
+        "tipo": "pelicula",
+        "descripcion": "Tras fusionarse con un simbionte extraterrestre que le otorga superpoderes, un reportero lucha a muerte contra un científico loco.",
+        "valoraciones": [{
+                "nick": "Unix45",
+                "puntuacion": 4.6,
+                "comentario": "Bastante buena"
+            },
+            {
+                "nick": "ivanz1nh0",
+                "puntuacion": 5,
+                "comentario": "Muy buena"
+            },
+            {
+                "nick": "Esteban14",
+                "puntuacion": 4.4,
+                "comentario": "Podria ser aun mejor pero es brutal"
+            }
+        ],
+        "generos": [
+            "Ciencia Ficcion", "Accion", "Aventura"
+        ],
+        "numeroRepro": 0,
+        "premios": ["Con mas me gusta"],
+        "duracion": "1h 52m",
+        "director": "Tom Hardy"
+    },
+    {
+        "titulo": "El lobo de wall street",
+        "tipo": "pelicula",
+        "descripcion": "Martin Scorsese nos narra la lujosa vida del corredor de bolsa de Wall Street, Jordan Belfort, cuya vertiginosa carrera tuvo como final una prisión federal.",
+        "valoraciones": [{
+                "nick": "Unix45",
+                "puntuacion": 5,
+                "comentario": "La mejor pelicula de la historia"
+            },
+            {
+                "nick": "ivanz1nh0",
+                "puntuacion": 5,
+                "comentario": "Locura"
+            },
+            {
+                "nick": "Esteban14",
+                "puntuacion": 5,
+                "comentario": "No le doy mas por que no se puede"
+            }
+        ],
+        "generos": [
+            "Comedias"
+        ],
+        "numeroRepro": 0,
+        "premios": ["Pelicula de el año", "Ganador de Oscar"],
+        "duracion": "2h 59m",
+        "director": "Martin Scorsese"
+    },
+    {
+        "titulo": "SAS: El ascenso del cisne negro",
+        "tipo": "pelicula",
+        "descripcion": "Un operativo de las fuerzas especiales que viaja de Londres a París con su novia pasa a la acción cuando unos despiadados mercenarios armados toman el control de su tren.",
+        "valoraciones": [{
+                "nick": "Unix45",
+                "puntuacion": 3,
+                "comentario": "Esta bien"
+            },
+            {
+                "nick": "ivanz1nh0",
+                "puntuacion": 4,
+                "comentario": "Entretenida"
+            },
+            {
+                "nick": "Esteban14",
+                "puntuacion": 3,
+                "comentario": "Para entretenerme comiendo pipas esta bien"
+            }
+        ],
+        "generos": [
+            "Belica", "Britanica", "Basada en libros"
+        ],
+        "numeroRepro": 0,
+        "premios": [],
+        "duracion": "2h 5m",
+        "director": "Sam Heughan"
+    },
+    {
+        "titulo": "Dracula la historia jamas contada",
+        "tipo": "pelicula",
+        "descripcion": "Un señor feudal debe convertirse en vampiro para expulsar a los invasores otomanos de su país.",
+        "valoraciones": [{
+                "nick": "Unix45",
+                "puntuacion": 4,
+                "comentario": "Esta bien"
+            },
+            {
+                "nick": "ivanz1nh0",
+                "puntuacion": 4,
+                "comentario": "Entretenida"
+            },
+            {
+                "nick": "Esteban14",
+                "puntuacion": 3,
+                "comentario": "Para entretenerme comiendo pipas esta bien"
+            }
+        ],
+        "generos": [
+            "Accion","Aventuras", "Britanica", "Basada en libros"
+        ],
+        "numeroRepro": 0,
+        "premios": [],
+        "duracion": "1h 32m",
+        "director": "Luke Evans"
+    }
+    
+]
